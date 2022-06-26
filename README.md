@@ -32,6 +32,8 @@ https://www.youtube.com/watch?v=QEJ1EereVxc
 
 3) Open the "terminal" tab in IntelliJ and run the command:
      mvn clean install
+     
+     
      If you have an error like that:
 
       ***************************
