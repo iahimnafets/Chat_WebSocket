@@ -1,0 +1,12 @@
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/socket/WebSocketConfig.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/ChatApplication.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/dto/Response.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/controller/ChatController.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/entitys/Chat.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/exception/ApiException.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/dto/OutputMessage.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/exception/ApiRequestException.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/exception/ApiExceptionHandler.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/repository/ChatRepository.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/service/MessagingService.java
+/Volumes/Elements/test-coloquio-BetVictor/Chat-WebSocket/src/main/java/com/chat/socket/dto/Message.java
