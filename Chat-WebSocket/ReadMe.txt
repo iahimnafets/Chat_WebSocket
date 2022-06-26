@@ -1,5 +1,5 @@
 
-********* TEST -  26 June 2022 -  Mihai Stefan ************
+*********  26 June 2022 -  Mihai Stefan ************
 
 For this project I have also created a video to see some steps
 
