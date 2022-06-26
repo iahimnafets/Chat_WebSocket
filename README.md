@@ -7,6 +7,7 @@ This application allows you to communicate by chatting between at least two peop
 ********* -  26 June 2022 -  Mihai Stefan ************
 
 For this project I have also created a video to see some steps:
+https://www.youtube.com/watch?v=QEJ1EereVxc
 
 
 
