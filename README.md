@@ -31,6 +31,18 @@ For this project I have also created a video to see some steps:
 
 3) Open the "terminal" tab in IntelliJ and run the command:
      mvn clean install
+     If you have an error like that:
+
+      ***************************
+      APPLICATION FAILED TO START
+      ***************************
+      Description:
+      Parameter 2 of constructor in com.chat.socket.controller.ChatController required a bean of type 
+      'org.springframework.boot.info.BuildProperties' that could not be found.
+
+      Use:
+      mvn clean package
+      
 
 5) Open the class: ChatApplication and launch the application
 
