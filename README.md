@@ -59,3 +59,24 @@ https://www.youtube.com/watch?v=QEJ1EereVxc
 
 
 
+Documentation:
+Write a program “action-monitor” satisfying these requirements:
+1. The program must be written in Java using the following libraries/frameworks/containers if needed:
+Maven 3
+Tomcat
+Spring (boot, core, mvc, integration)
+SL4j + LogBack (for logging purposes)
+A lightweight database
+WebSockets
+Kafka
+EasyMock, Mockito or other
+
+2. The program should allow two user to communicate between themselves pushing the messages to 
+the destination user. All the messages
+should be stored in a database.
+
+Stretch goals
+3. The program should expose 2 rest endpoints returning:
+status of the application
+version of the application
+
